@@ -58,4 +58,5 @@
 </p>
 
 ## 동영상 시연
-- https://www.youtube.com/watch?v=yerF-dLh4LY
+- [![영상 설명](https://img.youtube.com/vi/영상ID/0.jpg)](https://www.youtube.com/watch?v=영상ID)
+https://www.youtube.com/watch?v=yerF-dLh4LY
