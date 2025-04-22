@@ -45,6 +45,8 @@
 담당자 : 최주철
 이메일 : wnrb15@naver.com
 
+## 개발 환경
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
