@@ -52,14 +52,6 @@
 | **DB & Server** | Oracle 11g, Apache Tomcat 9.0 |
 | **OS** | Windows 10 |
 
----
-
-### 연락처
-- 담당자 : 최주철
-- 이메일 : wnrb15@naver.com
-
-### 개발 환경
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -70,6 +62,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" height="40" />
 </p>
 
+---
+
+### 연락처
+- 담당자 : 최주철
+- 이메일 : wnrb15@naver.com
+
+---
 ### 동영상 시연
 - [유튜브]https://www.youtube.com/watch?v=yerF-dLh4LY
 - [풀영상]https://drive.google.com/file/d/15q-Ad6RJ6500pdJlKWvSS2QX4PUPWBok/view
