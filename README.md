@@ -59,3 +59,4 @@
 
 ## 동영상 시연
 - [유튜브]https://www.youtube.com/watch?v=yerF-dLh4LY
+- [풀영상]https://drive.google.com/file/d/15q-Ad6RJ6500pdJlKWvSS2QX4PUPWBok/view
