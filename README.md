@@ -26,7 +26,22 @@
 
 ---
 
-## 🛠 개발 환경
+## 💬 커뮤니케이션 기능
+
+### 📝 사내 게시판 (In-House Bulletin Board)
+- 사내 공지사항, 업무 공유, 자료 업로드 등을 위한 게시판 기능
+- 게시글 작성, 조회, 수정, 삭제 및 댓글 기능 제공
+- 게시판 카테고리 분류 기능 (예: 일반, 공지, 기술)
+- MyBatis 기반 DB 연동
+
+### 💬 사내 채팅 시스템 (In-House Chat)
+- WebSocket 기반 실시간 채팅 기능 구현
+- 1:1 채팅 및 그룹 채팅 지원
+- 사용자 구분 및 대화 저장 기능 포함
+- 향후 파일 전송 및 읽음 확인 기능 확장 고려 설계
+
+---
+### 🛠 개발 환경
 
 | 항목 | 구성 |
 |------|------|
@@ -39,13 +54,11 @@
 
 ---
 
-## 📂 프로젝트 구조
-
-## 연락처
+### 연락처
 - 담당자 : 최주철
 - 이메일 : wnrb15@naver.com
 
-## 개발 환경
+### 개발 환경
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -57,6 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" height="40" />
 </p>
 
-## 동영상 시연
+### 동영상 시연
 - [유튜브]https://www.youtube.com/watch?v=yerF-dLh4LY
 - [풀영상]https://drive.google.com/file/d/15q-Ad6RJ6500pdJlKWvSS2QX4PUPWBok/view
