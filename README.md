@@ -1,4 +1,4 @@
-# 🍪 Cookie Project
+# 🍪 Cookie Project (SmartBakeChain)
 
 # 🏭 Smart Factory MES + ERP 통합 시스템
 
